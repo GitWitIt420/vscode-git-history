@@ -184,7 +184,7 @@
 		"react-use": "^17.4.0",
 		"react-virtual": "^2.8.2",
 		"reflect-metadata": "^0.1.13",
-		"simple-git": "^2.47.0",
+		"simple-git": "^3.16.0",
 		"threads": "^1.7.0",
 		"vscode-nls": "^5.0.0",
 		"which": "^2.0.2"
