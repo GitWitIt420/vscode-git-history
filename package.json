@@ -175,7 +175,7 @@
 		"@vscode/codicons": "^0.0.30",
 		"@vscode/webview-ui-toolkit": "^1.0.0",
 		"classnames": "^2.3.1",
-		"dayjs": "^1.10.7",
+		"dayjs": "^1.11.13",
 		"iconv-lite-umd": "^0.6.8",
 		"inversify": "^6.0.1",
 		"lodash": "^4.17.21",
