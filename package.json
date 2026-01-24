@@ -178,7 +178,7 @@
 		"dayjs": "^1.10.7",
 		"iconv-lite-umd": "^0.6.8",
 		"inversify": "^6.0.1",
-		"lodash": "^4.17.21",
+		"lodash": "^4.17.23",
 		"react": "^17.0.2",
 		"react-dom": "^17.0.2",
 		"react-use": "^17.4.0",
